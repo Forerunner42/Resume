@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(184, 186, 188);
+}
+
+.container{
+    margin:0 auto;
+    padding:25px;
+    padding-bottom:35px;
+    padding-top:45px;
+    width:70%;
+    box-shadow:10px 10px 20px black;
+}
+
+hr{
+    margin-top:5px;
+    border-color: darkgreen;
+}
+
+h2{
+    margin-bottom:5px;
+    margin-left:15px;
+}
+
+.header{
+    text-align:center;
+}
+
+.Skills p{
+    margin:0;
+}
